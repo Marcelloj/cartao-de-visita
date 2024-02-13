@@ -29,6 +29,8 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  height: 100vh;
+
 }
 
 body * {
@@ -37,7 +39,7 @@ body * {
 }
 
 #container {
-  width: 100px;
+  width: 100%px;
   max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
@@ -150,3 +152,5 @@ footer {
   padding: 24px;
   text-align: center;
 }
+
+
